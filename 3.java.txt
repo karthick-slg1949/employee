@@ -1,0 +1,6 @@
+class food
+{
+public stactic void main(string args[])
+{
+system.out.println("ge");
+}}
